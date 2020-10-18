@@ -23,4 +23,5 @@ This follows the fact that the sensor's bit resolution affects its Temperature C
 
 *It follows that a higher bit resolution takes more time yet provides more accuracy.*
 
-You can read the [Sensor Documentation](https://datasheets.maximintegrated.com/en/ds/DS18B20.pdf)
+
+*[Here is the Sensor Documentation](https://datasheets.maximintegrated.com/en/ds/DS18B20.pdf)*
