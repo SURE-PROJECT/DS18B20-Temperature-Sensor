@@ -23,5 +23,7 @@ This follows the fact that the sensor's bit resolution affects its Temperature C
 
 *It follows that a higher bit resolution takes more time yet provides more accuracy.*
 
+*Note that the default bit resolution is **12***
+
 
 *[Here is the DS18B20 Temperature Sensor Documentation](https://datasheets.maximintegrated.com/en/ds/DS18B20.pdf)*
